@@ -4,4 +4,3 @@ Git has a mutable index called status.
 creating a new branch is quick and simple.
 bug branch.
 I am the best one.
-I love git.
